@@ -1,2 +1,3 @@
 # Hr_Data_Analysis
-Hr data analysis usually fetching the number of employee each dept, total number of present each dept.
+Hr data analysis usually fetching the number of employee each dept, total number of empployee in present each dept.
+attrition rate of employee who left the company... 
