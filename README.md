@@ -19,8 +19,7 @@ Departmental Insights: Examining department-specific trends and performance.
 
 # Tools Used
 MySQL: The dataset is stored in a MySQL RDBMS.
-GitHub: The project is hosted on GitHub to facilitate collaboration and sharing of results.
-PowerBI: The results of the analysis are visualised using PowerBI.
+
 Findings
 1. Gender Breakdown: The company has more male employees, but there is a gender balance between male and female employees. However, a very small number of the company identify as gender non-conforming.
 
@@ -28,4 +27,3 @@ Findings
 
 3. Attrition Rate : 16.122%.
 
-Conclusion
